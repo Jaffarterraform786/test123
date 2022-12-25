@@ -1,5 +1,3 @@
 <?php
-
-print "hello jaffar\n";
-
+echo 'Hello, World!';
 ?>
